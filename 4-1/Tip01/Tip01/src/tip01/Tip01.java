@@ -15,6 +15,6 @@ public class Tip01 {
         Person 7: $11
         Person 8: $30
         */
-        
+        System.out.println("Person 1");
     }    
 }
